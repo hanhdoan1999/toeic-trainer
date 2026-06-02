@@ -1,5 +1,7 @@
 # TOEIC Trainer — Next.js + Supabase
 
+🔗 **Live demo:** https://toeic-trainer-rose.vercel.app
+
 Web app luyện TOEIC Part 5: chọn đề → làm bài → nộp → **lưu điểm và lịch sử qua từng lần làm**.
 Hỗ trợ nhiều đề, đăng nhập bằng magic link, chấm điểm phía server (an toàn), RLS đầy đủ.
 
