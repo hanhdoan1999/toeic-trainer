@@ -84,6 +84,3 @@ supabase/                        # SQL: schema, functions, seed + migrations/
 - Ghi DB vượt RLS qua hàm `SECURITY DEFINER` đã kiểm tra `auth.uid()` (`submit_attempt`, `get_attempt_review`, `import_exam`, `delete_exam`, `update_exam_title`).
 - Phân quyền theo `exams.created_by`: chỉ chủ đề mới sửa/xoá; đề seed (`created_by` NULL) là đề hệ thống, không sửa/xoá được.
 - `GEMINI_API_KEY` chỉ ở server (không `NEXT_PUBLIC`).
-
-## Triển khai
-Đẩy lên GitHub → import vào **Vercel** → thêm biến môi trường (`NEXT_PUBLIC_SUPABASE_URL`, `NEXT_PUBLIC_SUPABASE_ANON_KEY`, `GEMINI_API_KEY`, `GEMINI_MODEL`) → thêm domain Vercel vào Redirect URLs của Supabase (nếu bật xác nhận email).
