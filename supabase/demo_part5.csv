@@ -1,0 +1,101 @@
+position,level,stem,A,B,C,D,answer
+1,D,The manager decided ______ the meeting.,to cancel,canceled,canceling,cancel,A
+2,D,Please avoid ______ during the presentation.,talked,to talk,talking,talk,C
+3,D,All employees must ______ the safety rules.,follow,following,followed,to follow,A
+4,D,I would like ______ a table for two.,reserve,reserved,to reserve,reserving,C
+5,D,Thank you for ______ the report on time.,to submit,submitted,submitting,submit,C
+6,D,They agreed ______ the proposal.,to approve,approving,approved,approve,A
+7,D,He finished ______ the report.,wrote,write,to write,writing,D
+8,D,The boss made the team ______ late.,staying,stayed,to stay,stay,D
+9,D,You should ______ the instructions first.,reads,reading,read,to read,C
+10,D,She refused ______ the document.,sign,to sign,signing,signed,B
+11,D,They are interested in ______ for our company.,to work,worked,work,working,D
+12,D,Would you mind ______ the window?,to open,open,opening,opened,C
+13,D,Would you like ______ something to drink?,have,having,had,to have,D
+14,D,Visitors may ______ the museum for free.,entered,to enter,enter,entering,C
+15,D,We planned ______ a new branch.,open,opening,opened,to open,D
+16,D,The company postponed ______ the event.,hold,holding,to hold,held,B
+17,D,Let me ______ you with your bags.,helped,helping,help,to help,C
+18,D,He left the office without ______ anyone.,telling,to tell,told,tell,A
+19,D,______ a foreign language takes time.,Learned,Learn,Learning,Learns,C
+20,D,She managed ______ the problem alone.,solved,to solve,solve,solving,B
+21,TB,We must carefully ______ the contract.,to review,reviewing,reviewed,review,D
+22,TB,I will have the technician ______ the printer.,fix,fixing,fixed,to fix,A
+23,TB,I heard the director ______ at the meeting.,spoken,to speak,spoke,speak,D
+24,TB,It is important ______ the deadline.,met,to meet,meet,meeting,B
+25,TB,The board considered ______ the policy.,to change,changing,changed,change,B
+26,TB,The plan failed ______ enough revenue.,to generate,generate,generating,generated,A
+27,TB,"Before ______ the contract, read all terms.",sign,signing,signed,to sign,B
+28,TB,He arrived early in order ______ the room.,prepared,preparing,to prepare,prepare,C
+29,TB,I will have the report ______ by noon.,finished,to finish,finishing,finish,A
+30,TB,This software helps users ______ time.,save,saving,saves,saved,A
+31,TB,The client would like ______ the terms before signing.,discuss,to discuss,discussed,discussing,B
+32,TB,They had to delay ______ the new model.,to launch,launched,launch,launching,D
+33,TB,Staff should regularly ______ their passwords.,to update,update,updating,updated,B
+34,TB,We watched the engineers ______ the machine.,installs,install,installed,to install,B
+35,TB,Both sides agreed ______ the negotiation.,continue,continuing,to continue,continued,C
+36,TB,She is responsible for ______ the accounts.,to manage,managed,managing,manage,C
+37,TB,The fee includes ______ all materials.,provide,provided,to provide,providing,D
+38,TB,It is easy ______ this device.,operated,operate,operating,to operate,D
+39,TB,The supervisor made everyone ______ overtime.,worked,work,working,to work,B
+40,TB,Management decided ______ the office.,relocating,relocated,relocate,to relocate,D
+41,TB,He is good at ______ problems quickly.,solved,to solve,solve,solving,D
+42,TB,The manual helps customers ______ the product correctly.,assembling,to assemble,assembled,assembles,B
+43,TB,"To stay safe, avoid ______ the machine while it runs.",touched,touching,to touch,touch,B
+44,TB,The shipment might ______ tomorrow.,arrived,to arrive,arriving,arrive,D
+45,TB,We upgraded the system so as ______ errors.,reduced,reduce,to reduce,reducing,C
+46,TB,The supplier refused ______ the prices.,lower,lowering,lowered,to lower,D
+47,TB,I saw smoke ______ from the building.,come,coming,came,to come,B
+48,TB,"Once you finish ______ the form, submit it.",complete,completed,to complete,completing,D
+49,TB,______ feedback from clients improves service.,Collected,Collecting,Collects,Collect,B
+50,TB,The policy lets employees ______ from home.,worked,work,to work,working,B
+51,K,The team must immediately ______ the issue.,to address,addressing,address,addressed,C
+52,K,We had the equipment ______ before the inspection.,checked,checking,check,to check,A
+53,K,The trainer watched each new hire ______ the procedure correctly.,to perform,performed,performs,perform,D
+54,K,The manager insisted on ______ every invoice.,reviewed,reviewing,review,to review,B
+55,K,"Despite delays, they managed somehow ______ the target.",reaching,reached,reach,to reach,D
+56,K,The committee decided to postpone ______ a final vote.,to take,take,taken,taking,D
+57,K,The new rules made staff ______ ID badges daily.,to wear,worn,wear,wearing,C
+58,K,From my desk I could hear the printer ______ all morning.,running,ran,to run,run,A
+59,K,All drivers should always ______ their seatbelts.,fastening,fasten,to fasten,fastened,B
+60,K,It is essential for managers ______ clear instructions.,to give,give,giving,gave,A
+61,K,Regular maintenance helps the machines ______ longer.,lasted,last,lasting,lasts,B
+62,K,The firm plans ______ overseas next year.,expanding,to expand,expanded,expand,B
+63,K,Employees can avoid ______ fines by following the rules.,paying,pay,paid,to pay,A
+64,K,She had her secretary ______ the visitors in.,show,shown,showing,to show,A
+65,K,They had the broken window ______ the next day.,replace,replacing,replaced,to replace,C
+66,K,Witnesses saw the truck ______ the barrier.,hitted,hits,to hit,hit,D
+67,K,They cut costs by ______ energy use.,reducing,to reduce,reduce,reduced,A
+68,K,Candidates must clearly ______ their qualifications.,state,to state,stated,stating,A
+69,K,______ the new software will take several weeks.,Installed,Installing,To installing,Install,B
+70,K,"In order ______ delays, submit forms early.",avoiding,to avoid,avoid,avoided,B
+71,K,The union refused ______ the new schedule.,accept,to accept,accepting,accepted,B
+72,K,The CEO is considering ______ a subsidiary abroad.,to open,open,opening,opened,C
+73,K,The brochure helps tourists ______ the city easily.,navigated,navigating,navigates,to navigate,D
+74,K,The supervisor wouldn't let the trainees ______ the equipment unsupervised.,use,to use,used,using,A
+75,K,I heard the alarm ______ for several minutes.,rung,ringing,rang,to ring,B
+76,K,Workers should never ______ safety procedures.,ignored,ignoring,ignore,to ignore,C
+77,K,The device failed ______ properly after the update.,to function,function,functioned,functioning,A
+78,K,Would you mind ______ me the file?,sending,to send,sent,send,A
+79,K,The report is about ______ customer satisfaction.,improved,improve,to improve,improving,D
+80,K,The delay made customers ______ angry.,feeling,feel,felt,to feel,B
+81,K,It was difficult ______ everyone during the holidays.,contacted,contact,to contact,contacting,C
+82,K,The visitors watched the artisan ______ a vase by hand.,made,makes,to make,make,D
+83,K,"After negotiation, both parties agreed ______ the dispute.",to settle,settled,settling,settle,A
+84,K,Bad weather delayed ______ the cargo.,shipped,ship,shipping,to ship,C
+85,K,The system can automatically ______ backups every night.,to create,created,creating,create,D
+86,K,The hotel had the rooms ______ before guests arrived.,cleaned,to clean,clean,cleaning,A
+87,K,Clear signage helps drivers ______ the right exit.,finding,finds,found,find,D
+88,K,He completed the task without ______ any help.,request,requested,requesting,to request,C
+89,K,Label the boxes so as ______ confusion.,prevented,preventing,to prevent,prevent,C
+90,K,The board decided ______ the merger.,to approve,approve,approving,approved,A
+91,K,The renovation will include ______ the lobby.,redesigning,to redesign,redesigned,redesign,A
+92,K,Applicants must accurately ______ all fields.,to complete,completing,completed,complete,D
+93,K,We could feel the building ______ during the earthquake.,shook,to shake,shaken,shaking,D
+94,K,The new policy lets customers ______ items within 30 days.,return,returned,to return,returning,A
+95,K,It is necessary ______ all data regularly.,back up,backed up,backing up,to back up,D
+96,K,The department plans ______ two new positions.,to create,created,create,creating,A
+97,K,The driver swerved to avoid ______ the pedestrian.,hits,to hit,hit,hitting,D
+98,K,The client had his lawyer ______ the agreement.,review,reviewing,reviewed,to review,A
+99,K,The supervisor heard the alarm ______ once and rushed out.,sound,to sound,sounding,sounded,A
+100,K,"To pass inspection, the factory must strictly ______ all regulations.",to follow,following,follow,followed,C
